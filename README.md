@@ -1,7 +1,7 @@
 
 # Ex 1
 
-Il y a fort longtmps, au moyen âge, les pages se chargeaient depuis le serveur à chaque requête ! Aujourd'hui on aime que les pages ne chargent ... JAMAIS ... Meme pas au moment du login ! (Et ce serait pourtant légitime !)
+Il y a fort longtemps, au moyen âge, les pages se chargeaient depuis le serveur à chaque requête ! Aujourd'hui on aime que les pages ne chargent ... JAMAIS ... Meme pas au moment du login ! (Et ce serait pourtant légitime !)
 
 J'ai pris des extrais de ton systeme de login que j'ai intégré au starter pack d'hier -
 
